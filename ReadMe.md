@@ -8,7 +8,7 @@ B.Sc. Honours in Computer Science and Artificial Intelligence at **IIT Guwahati*
 - Currently building at **Cervoa** (Automation Manager) and **FIT - First Information Technology** (AI & Full Stack Developer, Oman)
 - Passionate about exploring AI tools daily and finding the right model for the right job
 - Solved **275+** problems on LeetCode and completed two **108-day** LinkedIn learning challenges
-- Portfolio: [karthikeyabendi05.vercel.app](https://karthikeyabendi05.vercel.app)
+- Portfolio: [karthikeyabendi.tech](https://karthikeyabendi05.vercel.app)
 
 ---
 
